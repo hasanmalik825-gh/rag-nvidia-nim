@@ -1,0 +1,2 @@
+from routes.index import index_router
+from routes.query_document import query_document_router
